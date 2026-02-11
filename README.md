@@ -6,7 +6,7 @@
 
 ## 📋 Description
 
-Projet de **Deep Learning** réalisé dans le cadre du Master IMSD à l'ENSA Khouribga. Ce projet implémente un **réseau de neurones convolutif (CNN)** pour la classification d'images du dataset CIFAR-10.
+Projet du module  **Deep Learning** réalisé dans le cadre du Master IMSD à l'ENSA Khouribga. Ce projet implémente un **réseau de neurones convolutif (CNN)** pour la classification d'images du dataset CIFAR-10.
 
 ### 🎯 Objectif
 
@@ -220,10 +220,7 @@ projet-deep-learning/
 ├── 🎯 CNN_Classification_Low_Resolution_Imagery.pdf     # Présentation
 ├── 📖 README.md                                         # Ce fichier
 │
-└── 📂 results/                                          # (à ajouter)
-    ├── model.h5                                         # Modèle entraîné
-    ├── history.json                                     # Historique d'entraînement
-    └── confusion_matrix.png                             # Visualisations
+
 ```
 
 ---
@@ -282,8 +279,8 @@ python evaluate.py
 
 ## 👥 Auteurs
 
-**Projet réalisé dans le cadre du Master IMSD**  
-📍 ENSA Khouribga  
+**Projet réalisé dans le cadre du  Module Deep Learning**  
+📍 SARAN MAGGGAG & ACHRAF MASNSARI  
 🎓 Vision par Ordinateur & Deep Learning
 
 ---
@@ -296,7 +293,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## 🙏 Remerciements
 
-- 🎓 Encadrants du Master IMSD
+
 - 📚 Communauté TensorFlow/Keras
 - 🌐 Dataset CIFAR-10 par Alex Krizhevsky
 
@@ -306,6 +303,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 **⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile ! ⭐**
 
-Made with ❤️ and 🧠 by ENSA Khouribga Students
+Made with ❤️ and 🧠 
 
 </div>
