@@ -279,9 +279,9 @@ python evaluate.py
 
 ## 👥 Auteurs
 
-**Projet réalisé dans le cadre du  Module Deep Learning**  
-📍 SARAN MAGGGAG & ACHRAF MASNSARI  
-🎓 Vision par Ordinateur & Deep Learning
+  
+📍 SARA MAGGGAG & ACHRAF MASNSARI  
+
 
 ---
 
